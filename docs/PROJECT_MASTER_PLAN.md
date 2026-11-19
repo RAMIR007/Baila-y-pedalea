@@ -18,11 +18,14 @@ Explorar y desarrollar una plataforma digital que conecte actividades, experienc
 - [ ] Definir propósito, usuarios y problema principal.
 
 ### Fase 1 — Descubrimiento de producto
-- [ ] Definir público objetivo y necesidades.
+- [ ] Definir público objetivo y necesidades, considerando clientes de Alemania, Francia, Países Bajos y Polonia.
 - [ ] Decidir cómo se relacionan baile y ciclismo dentro de la propuesta.
 - [ ] Priorizar el caso de uso principal.
 - [ ] Definir alcance de una primera versión (MVP).
 - [ ] Identificar riesgos, requisitos legales y necesidades de privacidad.
+- [ ] Definir el plan de idiomas de la web: español, alemán, francés, neerlandés y polaco como idiomas a contemplar.
+- [ ] Definir cómo se mostrarán los idiomas hablados por bailarines, instructores y guías de ciclismo, sin prometer idiomas no disponibles presencialmente.
+- [ ] Diseñar la internacionalización (i18n), selector de idioma y SEO multilingüe; tratar la traducción del navegador como complemento, no como única solución.
 
 ### Fase 2 — Diseño y arquitectura
 - [ ] Revisar tecnologías y restricciones de alojamiento.
@@ -51,7 +54,7 @@ Explorar y desarrollar una plataforma digital que conecte actividades, experienc
 
 ## 4. Decisiones pendientes
 - Propuesta de valor y público objetivo.
-- País o mercado inicial e idiomas.
+- País o mercado inicial y prioridad de lanzamiento de los idiomas (español, alemán, francés, neerlandés y polaco contemplados).
 - Relación entre las áreas de baile y ciclismo.
 - Funcionalidades prioritarias.
 - Identidad de marca definitiva.
