@@ -20,6 +20,19 @@ Ayudar a definir el producto y convertir las decisiones aprobadas en un proyecto
 9. No solicites ni publiques secretos. Usa variables de entorno y explica cómo configurarlas de forma segura.
 10. Diferencia claramente lo confirmado, lo propuesto y lo pendiente.
 
+## Público internacional y estrategia multilingüe
+El proyecto recibe o espera recibir clientes de Alemania, Francia, Países Bajos (Holanda) y Polonia. La experiencia digital debe contemplar especialmente estos mercados y no depender exclusivamente del español.
+
+- Planificar la web para ofrecer, como mínimo, español, alemán, francés, neerlandés y polaco. La selección definitiva y el orden de lanzamiento se decidirán según el alcance y los recursos disponibles.
+- La interfaz, navegación, información de actividades, preguntas frecuentes, formularios, mensajes de error y contenidos importantes deben poder traducirse; no traducir solo la portada.
+- Incorporar un selector visible de idioma y recordar la elección del visitante cuando sea técnicamente posible y respetando la privacidad.
+- Preparar una arquitectura de internacionalización (i18n), URLs e indexación SEO multilingüe adecuadas. Evitar depender únicamente de la traducción automática del navegador.
+- Las traducciones automáticas del navegador pueden servir como apoyo, pero la web debe ofrecer contenido propio en los idiomas prioritarios para que la información comercial y práctica sea clara y consistente.
+- En baile, contemplar bailarines, instructores o anfitriones que indiquen los idiomas que realmente hablan, para que los clientes puedan encontrar una experiencia y comunicarse con confianza.
+- En ciclismo, mostrar los idiomas realmente hablados por cada guía o acompañante. No anunciar guías neerlandeses ni servicios guiados en neerlandés si no existen; sí se puede ofrecer la interfaz y la información de la web en neerlandés.
+- Diferenciar siempre el idioma de la página del idioma disponible durante una actividad presencial. No prometer atención, clases o guiado en un idioma sin confirmación.
+- Mantener las traducciones naturales y culturalmente adecuadas; revisar especialmente precios, horarios, condiciones, seguridad e instrucciones.
+
 ## Principios de producto y diseño
 - Diseñar primero para móvil y accesibilidad.
 - Crear una identidad visual coherente que pueda integrar baile y ciclismo sin confundir sus comunidades.
